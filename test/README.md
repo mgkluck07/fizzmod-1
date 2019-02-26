@@ -1,4 +1,4 @@
-#PRIMERA ETAPA 
+# PRIMERA ETAPA 
 
 En esta primera etapa estaremos ejercitando conceptos básicos/intermedios de Javascript , Node.js y GIT con el fin de tener un margen inicial de preconceptos sabidos antes de comenzar la capacitación así como también el tiempo de resolución final y comprensión de texto para poder observar el crecimiento a lo largo del curso desde otra perspectiva y que este no sea unicamente objetivo a una evaluación final. 
 

@@ -8,7 +8,7 @@ Esta es la capacitación presentada para ingresantes al puesto de Desarrollador 
 Con la misma vamos a evaluar el nivel de conocimiento general promedio inicial de cada postulante, no a modo calificativo ni selectivo sino para tener en cuenta la base con la que arrancan así como también cual y como es el crecimiento a lo largo de la capacitación.  
 <br>
 <br>
-##ETAPAS :
+## ETAPAS :
 1. Evaluación de conocimientos generales
 2. Manejo general de GIT
 3. Conceptos generales de Javascript y V8
