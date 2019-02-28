@@ -31,17 +31,18 @@ let miembros = { pedro : 35 , ana : 18 , carlos : 43 , juan : 21 , maria : 29 , 
  * 6) Encontrar todos los errores en el siguiente programa , corregirlo y elevarlo como Push Request al repositorio de origen :
 */
 
-(function(){
+(function () {
     "use strict"
 
-    let x = 1 , arr = []
-    y = 2
-    arr.push(x,y)
-    let res = arr.forEach(n=>{
+    let x = 1,
+        arr = [],
+        y = 2
+    arr.push(x, y)
+    let res = arr.forEach((n, indice) => {
         console.log(`El numero en el indice ${indice} es : ${n}`);
-        res + 1
+        arr[indice] = n + 1
     })
-    console.log(res) // [2,3]
+    console.log(arr) // [2,3]
 })()
 
 /**
